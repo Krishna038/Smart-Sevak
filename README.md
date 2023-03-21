@@ -6,7 +6,8 @@ FOLDER INFORMATION
 Smart Sevak Documentation PDF - Complete information about the project
 Architecture_Smart_Sevak - Complete project visual reprenstation architecture
 
-Smart Sevak Andriod app - All andiord resorce files and kotlin class code files
+Smart Sevak Andriod app - https://drive.google.com/drive/folders/1QifCn43LQwkU9KB2NuaLz_TauWC7jPKM
+All andiord resorce files and kotlin class code files
 
 Smart Sevak UI Figma - https://www.figma.com/file/LTByXg17xLTQ45dJqrmpwa/Smart-Sevak?node-id=94%3A3435&t=mExaJc8b92pzteFF-1
 Please do check the Figma file for complete app fuctionality
